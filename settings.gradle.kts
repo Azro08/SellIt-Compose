@@ -14,5 +14,6 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "SellIt-Compose"
-include(":app")
- 
+include(":presentation")
+include(":data")
+include(":domain")
