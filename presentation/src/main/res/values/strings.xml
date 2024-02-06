@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SellIt-Compose</string>
+    <string name="Login">login</string>
+    <string name="Register">register</string>
 </resources>
